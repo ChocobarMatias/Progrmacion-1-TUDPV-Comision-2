@@ -1,0 +1,11 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Tp2Ej5
+build_property.ProjectDir = C:\Users\Usuario\Desktop\Diseño de juegos\Programacion practica\projecto\Progrmacion-1-TUDPV-Comision-2-Cruz-Navarro\Trabajos de Alumnos\67138-Cruz-Navarro-Dante\Tp2Ej5\Tp2Ej5\
