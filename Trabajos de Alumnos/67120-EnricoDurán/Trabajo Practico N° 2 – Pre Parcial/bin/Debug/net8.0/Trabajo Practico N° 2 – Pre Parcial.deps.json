@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Trabajo Practico N° 2 – Pre Parcial/1.0.0": {
+        "runtime": {
+          "Trabajo Practico N° 2 – Pre Parcial.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Trabajo Practico N° 2 – Pre Parcial/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

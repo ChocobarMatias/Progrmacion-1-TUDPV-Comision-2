@@ -1,0 +1,14 @@
+C:\Users\n4th4\Downloads\Tecn.DDV\Programación\67120-EnricoDurán\Trabajo Practico N° 2 – Pre Parcial\bin\Debug\net8.0\Trabajo Practico N° 2 – Pre Parcial.exe
+C:\Users\n4th4\Downloads\Tecn.DDV\Programación\67120-EnricoDurán\Trabajo Practico N° 2 – Pre Parcial\bin\Debug\net8.0\Trabajo Practico N° 2 – Pre Parcial.deps.json
+C:\Users\n4th4\Downloads\Tecn.DDV\Programación\67120-EnricoDurán\Trabajo Practico N° 2 – Pre Parcial\bin\Debug\net8.0\Trabajo Practico N° 2 – Pre Parcial.runtimeconfig.json
+C:\Users\n4th4\Downloads\Tecn.DDV\Programación\67120-EnricoDurán\Trabajo Practico N° 2 – Pre Parcial\bin\Debug\net8.0\Trabajo Practico N° 2 – Pre Parcial.dll
+C:\Users\n4th4\Downloads\Tecn.DDV\Programación\67120-EnricoDurán\Trabajo Practico N° 2 – Pre Parcial\bin\Debug\net8.0\Trabajo Practico N° 2 – Pre Parcial.pdb
+C:\Users\n4th4\Downloads\Tecn.DDV\Programación\67120-EnricoDurán\Trabajo Practico N° 2 – Pre Parcial\obj\Debug\net8.0\Trabajo Practico N° 2 – Pre Parcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n4th4\Downloads\Tecn.DDV\Programación\67120-EnricoDurán\Trabajo Practico N° 2 – Pre Parcial\obj\Debug\net8.0\Trabajo Practico N° 2 – Pre Parcial.AssemblyInfoInputs.cache
+C:\Users\n4th4\Downloads\Tecn.DDV\Programación\67120-EnricoDurán\Trabajo Practico N° 2 – Pre Parcial\obj\Debug\net8.0\Trabajo Practico N° 2 – Pre Parcial.AssemblyInfo.cs
+C:\Users\n4th4\Downloads\Tecn.DDV\Programación\67120-EnricoDurán\Trabajo Practico N° 2 – Pre Parcial\obj\Debug\net8.0\Trabajo Practico N° 2 – Pre Parcial.csproj.CoreCompileInputs.cache
+C:\Users\n4th4\Downloads\Tecn.DDV\Programación\67120-EnricoDurán\Trabajo Practico N° 2 – Pre Parcial\obj\Debug\net8.0\Trabajo Practico N° 2 – Pre Parcial.dll
+C:\Users\n4th4\Downloads\Tecn.DDV\Programación\67120-EnricoDurán\Trabajo Practico N° 2 – Pre Parcial\obj\Debug\net8.0\refint\Trabajo Practico N° 2 – Pre Parcial.dll
+C:\Users\n4th4\Downloads\Tecn.DDV\Programación\67120-EnricoDurán\Trabajo Practico N° 2 – Pre Parcial\obj\Debug\net8.0\Trabajo Practico N° 2 – Pre Parcial.pdb
+C:\Users\n4th4\Downloads\Tecn.DDV\Programación\67120-EnricoDurán\Trabajo Practico N° 2 – Pre Parcial\obj\Debug\net8.0\Trabajo Practico N° 2 – Pre Parcial.genruntimeconfig.cache
+C:\Users\n4th4\Downloads\Tecn.DDV\Programación\67120-EnricoDurán\Trabajo Practico N° 2 – Pre Parcial\obj\Debug\net8.0\ref\Trabajo Practico N° 2 – Pre Parcial.dll
