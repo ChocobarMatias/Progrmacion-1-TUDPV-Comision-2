@@ -14,8 +14,8 @@ La cátedra implementa la metodología de rotación de código profesional (Code
 
 FLUJO TÉCNICO DE GITHUB PASO A PASO:
 1. Acción del Líder del Grupo:
-   - Ingresa al repositorio oficial del Profesor Matías Chocobar: https://github.com/ChocobarMatias/Progrmacion-1-TUDPV-Comision-1
-   - Realiza un FORK a su cuenta personal de GitHub (ejemplo: https://github.com/LiderGrupo/Progrmacion-1-TUDPV-Comision-1).
+   - Ingresa al repositorio oficial del Profesor Matías Chocobar: https://github.com/ChocobarMatias/Progrmacion-1-TUDPV-Comision-2
+   - Realiza un FORK a su cuenta personal de GitHub (ejemplo: https://github.com/LiderGrupo/Progrmacion-1-TUDPV-Comision-2).
    - En Settings de su Fork, añade a sus compañeros de equipo como Colaboradores (Collaborators).
 
 2. Acción de los Integrantes del Grupo:
